@@ -1,2 +1,2 @@
 # myfirstpro-demo
-first demo project
+first git repository
